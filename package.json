@@ -1,0 +1,11 @@
+{
+  "name": "beerorwinebrewery",
+  "version": "0.0.1",
+  "description": "you can have appear as much beer or wine as you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "namitry",
+  "license": "MIT"
+}
